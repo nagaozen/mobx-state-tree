@@ -48,9 +48,6 @@
         "tslib": "^2.0.0",
         "typescript": "^3.9.5"
     },
-    "peerDependencies": {
-        "mobx-state-tree": "^3.11.0"
-    },
     "files": [
         "dist/"
     ]
